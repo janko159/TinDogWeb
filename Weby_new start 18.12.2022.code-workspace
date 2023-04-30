@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "Weby_new start 18.12.2022",
+		"path": "../Janko/Weby_new start 18.12.2022"
+	},
+	{
+		"name": "TinDog-Start-master",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "TinDog-Start-master"
+  }
+}
